@@ -18,3 +18,4 @@ y=int(input("Type a number: "))
 z=input("Type a for additon or s for substraction: ")
 
 calculator(x,y,z)
+print(end-start) #printing the time the function needed to be executed
